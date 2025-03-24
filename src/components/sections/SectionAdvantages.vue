@@ -18,7 +18,7 @@
         <span class="advantages__list-text">сотрудников в России</span>
       </li>
       <li class="advantages__list-item">
-        <h2 class="advantages__list-title">25</h2>
+        <h2 class="advantages__list-title">26</h2>
         <span class="advantages__list-text">городов России</span>
       </li>
       <li class="advantages__list-item">
