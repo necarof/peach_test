@@ -1,7 +1,7 @@
 <template>
   <section class="advantages">
     <div class="advantages__text-wrapper">
-      <h1 class="advantages__title">Softline</h1>
+      <h1 class="advantages__title">Softline1</h1>
       <p class="advantages__text">
         Ведущий поставщик IT-решений и сервисов.* Мы предлагаем комплексные IT-решения, облака,
         программное и аппаратное обеспечение, решения по цифровой трансформации и кибербезопасности,
